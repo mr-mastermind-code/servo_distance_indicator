@@ -3,7 +3,7 @@
 #include <NewPing.h>
 
 const int ServoPin = 10;
-
+const int TriggerPin = 6;
 const int EchoPin = 7;
 
 // 100 = maxDistance
