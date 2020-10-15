@@ -2,7 +2,7 @@
 
 #include <NewPing.h>
 
-
+const int ServoPin = 10;
 
 const int EchoPin = 7;
 
